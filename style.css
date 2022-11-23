@@ -105,7 +105,7 @@ nav>a:hover{
     content: "";
     width: 60px;
     height: 60px;
-    background: url(".C:\Users\LABKOM\Documents\Dasar Dasar Kejuruan X PPLG 2\Gian Pasha Novansyah\Portofolio\Image\accent1.svg");
+    background: url("C:\Users\LABKOM\Documents\Dasar Dasar Kejuruan X PPLG 2\Gian Pasha Novansyah\Portofolio\images\Image\accent1.svg");
     position: absolute;
     left: -20px;
     top: -10px;
@@ -155,7 +155,7 @@ nav>a:hover{
     width: 60px;
     height: 60px;
     position: absolute;
-    background: url("C:\Users\LABKOM\Documents\Dasar Dasar Kejuruan X PPLG 2\Gian Pasha Novansyah\Portofolio\Image\accent2.svg");
+    background: url("C:\Users\LABKOM\Documents\Dasar Dasar Kejuruan X PPLG 2\Gian Pasha Novansyah\Portofolio\images\Image\accent2.svg");
     left: -20px;
     top: -10px;
     z-index: -1;
